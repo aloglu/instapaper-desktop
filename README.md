@@ -2,7 +2,7 @@
 
 An [Electron](http://electron.atom.io) wrapper for Instapaper for the Mac.
 
-![Instapaper Screenshot](https://raw.githubusercontent.com/aloglu/instapaper-mac/master/Screenshot.png)
+![Instapaper Screenshot](https://raw.githubusercontent.com/aloglu/instapaper-mac/master/instapaper.png)
 
 # Installation
 
