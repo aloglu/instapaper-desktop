@@ -12,4 +12,4 @@ After the file is downloaded, drag the app icon to the `Applications` folder. Th
 
 # Disclaimer
 
-This is not an official Instapaper app.
+This app and its writer is not affiliated with, endorsed by, or in any way officially connected to [Instapaper](https://instapaper.com).
