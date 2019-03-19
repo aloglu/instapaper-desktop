@@ -12,9 +12,7 @@ An [Electron](http://electron.atom.io) wrapper for Instapaper for Windows and ma
 
 # Installation
 
-To download the app, go to the [releases section](https://github.com/aloglu/instapaper-mac/releases) or [click here](https://github.com/aloglu/instapaper-mac/releases/download/v1.1/Instapaper.dmg).
-
-After the file is downloaded, drag the app icon to the `Applications` folder. That's it.
+Go to the [releases](https://github.com/aloglu/instapaper-desktop/releases) section for the operating system of your choice.
 
 # Disclaimer
 
