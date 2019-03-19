@@ -1,6 +1,6 @@
 # Instapaper
 
-An [Electron](http://electron.atom.io) wrapper for Instapaper for Windows and macOS.
+An [Electron](http://electron.atom.io) wrapper for Instapaper for macOS and Windows.
 
 ## macOS
 
