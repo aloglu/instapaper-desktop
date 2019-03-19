@@ -4,11 +4,11 @@ An [Electron](http://electron.atom.io) wrapper for Instapaper for Windows and ma
 
 ## macOS
 
-![Instapaper Screenshot](https://raw.githubusercontent.com/aloglu/instapaper-mac/master/instapaper.png)
+![Instapaper Screenshot](https://raw.githubusercontent.com/aloglu/instapaper-mac/master/macos.png)
 
 ## Windows
 
-![Instapaper Screenshot](https://raw.githubusercontent.com/aloglu/instapaper-desktop/master/instapaper-win.PNG)
+![Instapaper Screenshot](https://raw.githubusercontent.com/aloglu/instapaper-desktop/master/windows.PNG)
 
 # Installation
 
