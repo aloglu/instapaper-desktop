@@ -1,8 +1,14 @@
-# Instapaper for Mac
+# Instapaper
 
-An [Electron](http://electron.atom.io) wrapper for Instapaper for the Mac.
+An [Electron](http://electron.atom.io) wrapper for Instapaper for Windows and macOS.
+
+## macOS
 
 ![Instapaper Screenshot](https://raw.githubusercontent.com/aloglu/instapaper-mac/master/instapaper.png)
+
+## Windows
+
+![Instapaper Screenshot](https://raw.githubusercontent.com/aloglu/instapaper-desktop/master/instapaper-win.PNG)
 
 # Installation
 
